@@ -23,7 +23,7 @@
   "devDependencies": {
     "css-loader": "^2.1.0",
     "ts-loader": "^5.3.3",
-    "typescript": "^2.7.2",
+    "typescript": "^3.3.1",
     "vue-loader": "^12.0.3",
     "vue-template-compiler": "^2.5.22",
     "webpack": "^4.29.1"
