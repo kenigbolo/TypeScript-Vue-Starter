@@ -26,6 +26,6 @@
     "typescript": "^3.3.3333",
     "vue-loader": "^15.6.4",
     "vue-template-compiler": "^2.6.7",
-    "webpack": "^4.29.5"
+    "webpack": "^4.29.6"
   }
 }
