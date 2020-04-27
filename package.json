@@ -21,7 +21,7 @@
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
-    "css-loader": "^3.5.2",
+    "css-loader": "^3.5.3",
     "ts-loader": "^7.0.1",
     "typescript": "^3.8.3",
     "vue-loader": "^15.9.1",
